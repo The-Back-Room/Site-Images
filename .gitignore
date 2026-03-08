@@ -1,0 +1,29 @@
+# OS-generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Non-image files that should not be committed
+*.psd
+*.ai
+*.xcf
+*.afdesign
+*.afphoto
+
+# Compressed archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.7z
