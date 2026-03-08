@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/The-Back-Room/Site-Images/main/<folder>/<filen
 **Example:**
 
 ```
-https://raw.githubusercontent.com/The-Back-Room/Site-Images/main/emotes/wave.png
+https://raw.githubusercontent.com/The-Back-Room/Site-Images/main/misc/download.png
 ```
 
 ## Contributing
