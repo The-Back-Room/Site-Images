@@ -27,13 +27,13 @@ The following image formats are accepted:
 
 Images in this repository are referenced via their raw GitHub URL:
 
-```
+```html
 https://raw.githubusercontent.com/The-Back-Room/Site-Images/main/<folder>/<filename>
 ```
 
 **Example:**
 
-```
+```html
 https://raw.githubusercontent.com/The-Back-Room/Site-Images/main/misc/download.png
 ```
 
